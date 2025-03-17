@@ -57,7 +57,7 @@ GreenMarket is dedicated to delivering fresh, high-quality fruits and vegetables
 ## 🛠️ **Tools Used**  
 
 🟢 **Microsoft Excel**  
-📊 **Pivot Tables, Charts, Slicers, Dashboards**  
+📊 **Pivot Tables, Charts, Slicers, Dashboard**  
 
 ---
 
