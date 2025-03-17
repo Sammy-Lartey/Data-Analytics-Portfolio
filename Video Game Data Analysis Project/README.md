@@ -48,10 +48,6 @@ This data analysis report explores the evolution of video game sales over the de
 🟢 **Power BI** – Interactive dashboards & data visualizations  
 📊 **Data Modeling & Analytics** – Sales trends, market segmentation, and revenue analysis  
 
-## 📂 Project Files  
-
-📊 **Power BI Dashboard & Report**: [Provide a link if available]  
-
 ## 👤 Author  
 
 📌 **Samuel Lartey**  
