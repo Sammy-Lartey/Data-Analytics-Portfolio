@@ -65,13 +65,7 @@ GreenMarket is dedicated to delivering fresh, high-quality fruits and vegetables
 
 📌 Conduct **customer preference analysis** for deeper demand insights.  
 📌 Examine **seasonal sales patterns** to optimize **supply chain strategies**.  
-📌 Develop **region-specific marketing campaigns** to enhance **business growth**.  
-
----
-
-## 📂 **Project Files**  
-
-📊 **Excel Dashboard & Report**: [Provide a link if available]  
+📌 Develop **region-specific marketing campaigns** to enhance **business growth**.
 
 ---
 
