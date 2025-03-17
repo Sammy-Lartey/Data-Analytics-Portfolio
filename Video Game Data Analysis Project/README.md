@@ -45,7 +45,7 @@ This data analysis report explores the evolution of video game sales over the de
 
 ## 🛠️ Tools Used  
 
-🟢 **Power BI** – Interactive dashboards & data visualizations  
+🟢 **Power BI** – Interactive dashboard & visualizations  
 📊 **Data Modeling & Analytics** – Sales trends, market segmentation, and revenue analysis  
 
 ## 👤 Author  
