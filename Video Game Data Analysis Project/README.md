@@ -104,4 +104,4 @@ Images used in this project are sourced from **Unsplash**, credited to:
 
 ## License
 
-This project is for **educational and analytical purposes only**. All data and images belong to their respective owners.
+This project is for **educational purposes only**. All data and images belong to their respective owners.
