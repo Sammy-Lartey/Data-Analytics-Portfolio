@@ -1,0 +1,91 @@
+ID,Performance_Review,City,Last_Promotion_Date, Salary ,Overdue_Vacation
+1,10,Alabama,," $4,539.00 ",No
+2,10,Arizona,," $3,698.00 ",Yes
+3,8,Colorado,," $4,157.00 ",Yes
+4,10,Missouri,," $4,360.00 ",Yes
+5,7,New York,," $4,144.00 ",Yes
+6,5,Ohio,," $4,257.00 ",No
+7,8,Oregon,," $4,534.00 ",No
+8,9,Arizona,12/08/2017," $4,094.00 ",Yes
+9,9,Montana,," $4,289.00 ",Yes
+10,9,Missouri,," $3,834.00 ",Yes
+11,5,New York,," $3,917.00 ",Yes
+12,9,Ohio,," $3,625.00 ",No
+13,6,Oregon,," $4,157.00 ",No
+14,5,Missouri,," $4,307.00 ",No
+15,8,New York,12/08/2017," $4,008.00 ",No
+16,6,Ohio,," $4,529.00 ",No
+17,5,New York,," $3,625.00 ",No
+18,6,Washington,," $4,047.00 ",No
+19,7,New York,," $4,493.00 ",Yes
+20,9,Ohio,," $4,257.00 ",No
+21,7,Montana,," $4,534.00 ",No
+22,7,Washington,," $4,047.00 ",No
+23,10,Missouri,," $4,493.00 ",No
+24,9,Montana,," $4,257.00 ",No
+25,7,Ohio,09/11/2015," $4,529.00 ",No
+26,5,Missouri,," $4,047.00 ",Yes
+27,6,Alabama,," $3,754.00 ",No
+28,10,Colorado,," $4,529.00 ",No
+29,10,Washington,," $3,625.00 ",No
+30,5,Montana,," $3,754.00 ",Yes
+31,7,Texas,," $4,211.00 ",No
+32,8,Texas,," $4,211.00 ",No
+33,10,Washington,," $3,625.00 ",Yes
+34,9,Montana,," $3,754.00 ",No
+35,9,Oregon,," $4,064.00 ",No
+36,7,Alabama,," $4,576.00 ",No
+37,5,Arizona,," $3,909.00 ",No
+38,8,Colorado,," $4,233.00 ",No
+39,9,Montana,," $3,958.00 ",No
+40,9,Washington,," $4,383.00 ",No
+41,10,Washington,12/08/2017," $4,493.00 ",No
+42,9,Texas,," $4,006.00 ",No
+43,8,Texas,," $3,754.00 ",No
+44,10,Texas,," $4,325.00 ",No
+45,9,Colorado,," $4,133.00 ",No
+46,7,Montana,22/01/2020," $4,034.00 ",No
+47,5,Missouri,," $4,299.00 ",No
+48,7,New York,," $3,944.00 ",No
+49,5,Ohio,," $3,617.00 ",No
+50,10,Oregon,," $3,917.00 ",No
+51,6,Missouri,05/03/2018," $3,985.00 ",No
+52,10,New York,," $3,750.00 ",No
+53,7,Ohio,09/11/2015," $3,609.00 ",No
+54,7,Oregon,," $4,079.00 ",No
+55,7,Alabama,," $3,793.00 ",No
+56,5,Arizona,," $4,355.00 ",No
+57,8,Colorado,," $4,324.00 ",No
+58,5,Montana,22/01/2020," $4,152.00 ",No
+59,8,Washington,," $3,689.00 ",No
+60,8,Washington,," $4,028.00 ",No
+61,8,Washington,," $3,859.00 ",No
+62,7,Texas,," $4,492.00 ",Yes
+63,6,Texas,05/03/2018," $4,047.00 ",No
+64,10,Texas,," $4,263.00 ",No
+65,5,Texas,09/11/2015," $4,150.00 ",No
+66,5,Rhode Island,," $4,208.00 ",No
+67,9,Rhode Island,," $4,275.00 ",No
+68,9,Rhode Island,," $3,922.00 ",No
+69,9,Oregon,," $4,003.00 ",No
+70,7,Oregon,," $3,901.00 ",No
+71,5,Oregon,," $3,952.00 ",No
+72,10,Mississippi,," $4,161.00 ",No
+73,7,Mississippi,," $3,643.00 ",No
+74,6,Mississippi,," $4,252.00 ",No
+75,7,Mississippi,," $4,063.00 ",No
+76,6,Mississippi,," $4,434.00 ",No
+77,8,Maryland,," $4,403.00 ",No
+78,8,Maryland,," $4,425.00 ",No
+79,10,Maryland,," $4,005.00 ",No
+80,7,Maryland,," $3,769.00 ",No
+81,9,Hawaii,," $4,500.00 ",No
+82,5,Hawaii,," $3,906.00 ",No
+83,7,Hawaii,," $4,211.00 ",Yes
+84,8,Hawaii,," $3,904.00 ",No
+85,9,Hawaii,," $4,543.00 ",No
+86,10,Alabama,," $4,430.00 ",No
+87,9,Arizona,," $4,183.00 ",No
+88,10,Colorado,," $4,308.00 ",No
+89,7,Maryland,," $3,920.00 ",No
+90,7,Hawaii,," $4,001.00 ",Yes
