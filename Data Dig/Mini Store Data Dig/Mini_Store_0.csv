@@ -1,0 +1,214 @@
+#SPILL!,Product,Category,Quantity,Unit Price,Date,Country
+1,Carrots,Vegetables,23,"$1,423.33",06/01/2016,United States
+2,Cabbage,Vegetables,44,"$2,059.75",07/01/2016,United Kingdom
+3,Banana,Fruit,19,$44.07,08/01/2016,United States
+4,Banana,Fruit,31,$838.40,10/01/2016,Canada
+5,Beans,Vegetables,27,$525.20,10/01/2016,Germany
+6,Orange,Fruit,47,"$1,203.33",11/01/2016,United States
+7,Cabbage,Vegetables,9,$906.20,11/01/2016,Australia
+8,Banana,Fruit,17,"$6,906.00",16/01/2016,New Zealand
+9,Apple,Fruit,11,"$2,417.00",16/01/2016,France
+10,Apple,Fruit,43,"$3,715.50",16/01/2016,Canada
+11,Banana,Fruit,26,"$8,250.00",16/01/2016,Germany
+12,Cabbage,Vegetables,3,"$2,337.33",18/01/2016,United States
+13,Carrots,Vegetables,32,$158.58,20/01/2016,Germany
+14,Cabbage,Vegetables,18,$403.43,22/01/2016,Canada
+15,Apple,Fruit,6,"$2,315.33",24/01/2016,France
+16,Banana,Fruit,34,"$2,320.00",27/01/2016,United Kingdom
+17,Banana,Fruit,29,$192.36,28/01/2016,United States
+18,Banana,Fruit,7,$103.18,30/01/2016,United Kingdom
+19,Cabbage,Vegetables,27,"$1,797.50",30/01/2016,United Kingdom
+20,Apple,Fruit,43,$232.20,02/02/2016,United States
+21,Orange,Fruit,25,$564.00,04/02/2016,France
+22,Banana,Fruit,40,$200.80,11/02/2016,New Zealand
+23,Banana,Fruit,31,$303.50,14/02/2016,Canada
+24,Banana,Fruit,46,$654.57,17/02/2016,United States
+25,Beans,Vegetables,38,"$3,559.00",17/02/2016,United Kingdom
+26,Carrots,Vegetables,5,$644.25,17/02/2016,Australia
+27,Mango,Fruit,46,"$1,477.60",18/02/2016,France
+28,Beans,Vegetables,22,"$1,790.75",18/02/2016,United States
+29,Beans,Vegetables,24,$392.38,20/02/2016,Germany
+30,Apple,Fruit,35,$760.20,21/02/2016,France
+31,Mango,Fruit,34,$234.43,22/02/2016,United States
+32,Apple,Fruit,9,"$4,446.00",23/02/2016,Australia
+33,Apple,Fruit,26,$147.14,29/02/2016,France
+34,Cabbage,Vegetables,19,"$1,557.00",29/02/2016,Germany
+35,Apple,Fruit,33,$433.93,01/03/2016,France
+36,Apple,Fruit,24,$953.00,04/03/2016,Australia
+37,Apple,Fruit,27,"$3,827.50",05/03/2016,United States
+38,Carrots,Vegetables,9,$911.60,05/03/2016,United Kingdom
+39,Banana,Fruit,3,$186.33,15/03/2016,United States
+40,Banana,Fruit,26,$508.40,15/03/2016,United States
+41,Carrots,Vegetables,3,"$8,941.00",15/03/2016,United Kingdom
+42,Cabbage,Vegetables,32,"$1,780.33",16/03/2016,France
+43,Banana,Fruit,41,$11.25,19/03/2016,Canada
+44,Banana,Fruit,44,"$1,566.67",19/03/2016,Australia
+45,Beans,Vegetables,14,$549.55,21/03/2016,Germany
+46,Apple,Fruit,5,$388.00,22/03/2016,New Zealand
+47,Orange,Fruit,32,"$1,777.40",23/03/2016,Germany
+48,Orange,Fruit,42,"$1,745.50",24/03/2016,United States
+49,Banana,Fruit,13,$268.60,26/03/2016,Australia
+50,Carrots,Vegetables,36,$281.92,26/03/2016,Germany
+51,Banana,Fruit,37,$796.83,29/03/2016,France
+52,Mango,Fruit,16,$523.29,30/03/2016,Australia
+53,Apple,Fruit,18,$422.07,01/04/2016,France
+54,Apple,Fruit,15,$545.50,01/04/2016,Canada
+55,Carrots,Vegetables,27,$60.70,03/04/2016,United Kingdom
+56,Banana,Fruit,45,$75.29,06/04/2016,New Zealand
+57,Carrots,Vegetables,43,$696.27,06/04/2016,United States
+58,Cabbage,Vegetables,4,$21.31,12/04/2016,Germany
+59,Banana,Fruit,15,$33.57,17/04/2016,United States
+60,Orange,Fruit,3,$79.50,18/04/2016,Australia
+61,Apple,Fruit,29,$80.57,21/04/2016,United States
+62,Cabbage,Vegetables,11,$659.36,22/04/2016,Canada
+63,Banana,Fruit,29,$877.40,23/04/2016,United States
+64,Apple,Fruit,10,$307.00,25/04/2016,Canada
+65,Banana,Fruit,34,"$7,898.00",27/04/2016,United Kingdom
+66,Banana,Fruit,23,"$2,427.00",30/04/2016,France
+67,Banana,Fruit,34,"$1,237.57",01/05/2016,New Zealand
+68,Carrots,Vegetables,19,$199.21,01/05/2016,Germany
+69,Banana,Fruit,10,"$4,054.00",02/05/2016,United States
+70,Mango,Fruit,18,$161.57,02/05/2016,United States
+71,Mango,Fruit,31,$509.09,02/05/2016,United Kingdom
+72,Banana,Fruit,27,$445.15,03/05/2016,United States
+73,Orange,Fruit,41,$629.50,03/05/2016,Canada
+74,Banana,Fruit,3,$158.00,05/05/2016,Germany
+75,Apple,Fruit,16,$480.56,05/05/2016,France
+76,Banana,Fruit,34,$592.00,06/05/2016,United States
+77,Orange,Fruit,43,$333.08,08/05/2016,United States
+78,Banana,Fruit,35,$783.75,08/05/2016,United Kingdom
+79,Apple,Fruit,18,$639.25,08/05/2016,France
+80,Carrots,Vegetables,2,$482.58,08/05/2016,United Kingdom
+81,Banana,Fruit,7,$400.47,12/05/2016,Canada
+82,Banana,Fruit,9,$335.33,14/05/2016,Germany
+83,Carrots,Vegetables,3,"$1,127.17",14/05/2016,United Kingdom
+84,Banana,Fruit,33,$472.00,15/05/2016,Australia
+85,Banana,Fruit,6,$954.30,16/05/2016,France
+86,Cabbage,Vegetables,18,$293.43,16/05/2016,United Kingdom
+87,Beans,Vegetables,16,"$7,094.00",16/05/2016,Germany
+88,Carrots,Vegetables,37,"$1,014.50",18/05/2016,United States
+89,Apple,Fruit,15,$426.40,19/05/2016,Australia
+90,Mango,Fruit,19,"$9,333.00",20/05/2016,United States
+91,Mango,Fruit,37,$797.73,22/05/2016,Germany
+92,Cabbage,Vegetables,1,$143.64,23/05/2016,United Kingdom
+93,Banana,Fruit,17,$512.00,25/05/2016,United States
+94,Banana,Fruit,37,$700.57,25/05/2016,New Zealand
+95,Beans,Vegetables,1,$71.57,25/05/2016,Australia
+96,Orange,Fruit,49,"$1,356.83",26/05/2016,United Kingdom
+97,Orange,Fruit,32,$911.00,26/05/2016,Canada
+98,Orange,Fruit,19,$460.00,26/05/2016,Australia
+99,Cabbage,Vegetables,23,"$1,193.43",26/05/2016,Germany
+100,Banana,Fruit,20,$647.75,27/05/2016,United States
+101,Apple,Fruit,35,$146.20,27/05/2016,France
+102,Mango,Fruit,33,$607.83,28/05/2016,United States
+103,Apple,Fruit,10,$684.00,28/05/2016,United States
+104,Carrots,Vegetables,15,"$1,491.40",28/05/2016,United States
+105,Mango,Fruit,33,$251.13,29/05/2016,Canada
+106,Cabbage,Vegetables,10,$520.56,30/05/2016,Germany
+107,Banana,Fruit,20,$489.63,04/06/2016,United States
+108,Apple,Fruit,39,$521.00,04/06/2016,Canada
+109,Apple,Fruit,47,$467.08,10/06/2016,France
+110,Cabbage,Vegetables,26,$642.00,11/06/2016,Germany
+111,Banana,Fruit,33,$867.63,20/06/2016,Canada
+112,Cabbage,Vegetables,32,"$7,231.00",20/06/2016,United Kingdom
+113,Cabbage,Vegetables,19,$592.73,23/06/2016,Australia
+114,Banana,Fruit,34,$8.92,25/06/2016,France
+115,Banana,Fruit,36,$707.17,26/06/2016,United States
+116,Orange,Fruit,24,$501.56,27/06/2016,United States
+117,Mango,Fruit,8,$608.89,02/07/2016,United States
+118,Banana,Fruit,35,$500.20,02/07/2016,France
+119,Banana,Fruit,26,$568.67,05/07/2016,Canada
+120,Orange,Fruit,16,$688.43,07/07/2016,New Zealand
+121,Cabbage,Vegetables,1,$792.88,11/07/2016,United Kingdom
+122,Orange,Fruit,1,$386.33,13/07/2016,United Kingdom
+123,Orange,Fruit,12,$20.00,20/07/2016,United Kingdom
+124,Orange,Fruit,8,"$1,056.83",20/07/2016,New Zealand
+125,Apple,Fruit,32,$41.25,20/07/2016,Germany
+126,Cabbage,Vegetables,26,"$1,513.50",20/07/2016,United Kingdom
+127,Orange,Fruit,27,$77.27,22/07/2016,New Zealand
+128,Banana,Fruit,17,"$2,246.50",23/07/2016,United Kingdom
+129,Cabbage,Vegetables,37,$422.22,25/07/2016,United States
+130,Carrots,Vegetables,12,$575.10,28/07/2016,United Kingdom
+131,Apple,Fruit,2,$243.43,29/07/2016,United Kingdom
+132,Banana,Fruit,41,"$1,138.00",30/07/2016,Australia
+133,Banana,Fruit,20,$426.00,31/07/2016,United States
+134,Beans,Vegetables,45,"$4,208.00",31/07/2016,Australia
+135,Banana,Fruit,17,$649.45,01/08/2016,France
+136,Cabbage,Vegetables,24,$872.67,01/08/2016,United States
+137,Orange,Fruit,42,$57.27,03/08/2016,United States
+138,Cabbage,Vegetables,28,$894.33,12/08/2016,United States
+139,Banana,Fruit,26,$567.20,13/08/2016,Germany
+140,Carrots,Vegetables,6,$116.20,19/08/2016,United States
+141,Apple,Fruit,5,$256.27,23/08/2016,France
+142,Apple,Fruit,15,"$1,248.33",24/08/2016,France
+143,Cabbage,Vegetables,21,$747.17,25/08/2016,Germany
+144,Apple,Fruit,14,"$1,047.57",27/08/2016,Canada
+145,Carrots,Vegetables,47,$956.75,28/08/2016,United States
+146,Apple,Fruit,1,$493.00,29/08/2016,United Kingdom
+147,Beans,Vegetables,1,$720.13,29/08/2016,Germany
+148,Banana,Fruit,38,$980.57,01/09/2016,New Zealand
+149,Banana,Fruit,1,$334.67,01/09/2016,Germany
+150,Banana,Fruit,16,$184.10,02/09/2016,United States
+151,Banana,Fruit,31,$42.40,05/09/2016,Australia
+152,Banana,Fruit,20,"$1,252.14",07/09/2016,United Kingdom
+153,Banana,Fruit,29,$697.88,08/09/2016,United States
+154,Cabbage,Vegetables,25,$487.78,09/09/2016,New Zealand
+155,Cabbage,Vegetables,46,$50.29,09/09/2016,Canada
+156,Apple,Fruit,40,"$1,212.71",11/09/2016,United States
+157,Banana,Fruit,20,$472.67,11/09/2016,France
+158,Banana,Fruit,42,"$3,940.00",15/09/2016,United States
+159,Orange,Fruit,10,"$1,287.00",18/09/2016,United States
+160,Cabbage,Vegetables,6,$660.58,19/09/2016,Germany
+161,Banana,Fruit,26,"$1,540.50",20/09/2016,United States
+162,Mango,Fruit,8,$690.38,25/09/2016,Australia
+163,Cabbage,Vegetables,21,"$1,978.67",25/09/2016,United Kingdom
+164,Carrots,Vegetables,33,$517.93,26/09/2016,Germany
+165,Orange,Fruit,46,"$6,187.00",27/09/2016,Australia
+166,Banana,Fruit,19,$802.50,29/09/2016,Germany
+167,Carrots,Vegetables,7,$75.78,29/09/2016,Germany
+168,Banana,Fruit,25,$61.00,03/10/2016,Australia
+169,Carrots,Vegetables,7,$594.00,04/10/2016,Germany
+170,Banana,Fruit,23,"$1,775.75",07/10/2016,New Zealand
+171,Carrots,Vegetables,14,$328.79,10/10/2016,United States
+172,Apple,Fruit,11,$627.69,16/10/2016,France
+173,Apple,Fruit,15,$551.62,23/10/2016,United Kingdom
+174,Banana,Fruit,7,"$3,552.00",23/10/2016,New Zealand
+175,Banana,Fruit,19,$606.08,25/10/2016,Australia
+176,Banana,Fruit,28,$800.67,26/10/2016,Germany
+177,Banana,Fruit,43,$133.00,26/10/2016,Australia
+178,Beans,Vegetables,19,$501.50,26/10/2016,Australia
+179,Orange,Fruit,32,"$1,454.50",02/11/2016,United States
+180,Banana,Fruit,40,"$1,466.33",03/11/2016,United Kingdom
+181,Carrots,Vegetables,21,"$1,003.67",03/11/2016,United States
+182,Apple,Fruit,31,$362.69,09/11/2016,United Kingdom
+183,Apple,Fruit,8,"$1,064.20",12/11/2016,France
+184,Banana,Fruit,25,"$1,778.80",15/11/2016,United States
+185,Carrots,Vegetables,29,$372.77,25/11/2016,United Kingdom
+186,Cabbage,Vegetables,4,$35.50,25/11/2016,Germany
+187,Orange,Fruit,14,"$1,656.60",26/11/2016,United Kingdom
+188,Orange,Fruit,13,"$1,665.00",28/11/2016,Canada
+189,Banana,Fruit,17,$819.45,28/11/2016,Australia
+190,Apple,Fruit,3,$277.43,29/11/2016,France
+191,Banana,Fruit,17,"$1,203.83",30/11/2016,United States
+192,Carrots,Vegetables,4,$667.57,02/12/2016,United States
+193,Carrots,Vegetables,8,$700.31,04/12/2016,France
+194,Apple,Fruit,42,"$6,078.00",05/12/2016,United States
+195,Beans,Vegetables,8,"$1,092.67",06/12/2016,Germany
+196,Banana,Fruit,38,$22.67,12/12/2016,Canada
+197,Banana,Fruit,14,"$1,196.71",12/12/2016,Australia
+198,Banana,Fruit,34,$297.75,12/12/2016,United States
+199,Banana,Fruit,9,"$1,243.14",15/12/2016,Germany
+200,Banana,Fruit,11,"$5,021.00",16/12/2016,United States
+201,Apple,Fruit,39,$251.43,16/12/2016,Australia
+202,Banana,Fruit,10,$953.20,18/12/2016,Germany
+203,Beans,Vegetables,39,$118.54,19/12/2016,United Kingdom
+204,Orange,Fruit,27,$198.71,20/12/2016,United Kingdom
+205,Apple,Fruit,16,$409.17,20/12/2016,Canada
+206,Apple,Fruit,21,$644.57,22/12/2016,New Zealand
+207,Apple,Fruit,35,"$4,376.00",22/12/2016,Germany
+208,Carrots,Vegetables,8,"$1,014.11",25/12/2016,United States
+209,Apple,Fruit,50,$296.17,28/12/2016,France
+210,Beans,Vegetables,12,$61.82,28/12/2016,France
+211,Orange,Fruit,38,$79.83,29/12/2016,United States
+212,Carrots,Vegetables,46,$326.63,29/12/2016,Australia
+213,Carrots,Vegetables,31,$169.50,30/12/2016,Australia
