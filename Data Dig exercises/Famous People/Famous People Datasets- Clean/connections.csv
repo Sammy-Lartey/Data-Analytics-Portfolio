@@ -1,0 +1,26 @@
+Person_Id,Movie_Id,Song_Id,Person_Name,Movie_Name,Song_Name
+1,0,1,Beyoncé,No Movie,Halo
+3,0,2,Lady Gaga,No Movie,Shallow
+6,6,0,Will Smith,Aladdin,No Song
+10,0,4,Jennifer Lopez,No Movie,Rolling in the Deep
+14,0,7,Shakira,No Movie,Hips Don’t Lie
+19,0,8,Rihanna,No Movie,We Found Love
+5,0,3,Ariana Grande,No Movie,Bad Guy
+13,8,0,Robert Downey Jr.,Avengers: Endgame,No Song
+15,7,0,Chris Hemsworth,Thor: Ragnarok,No Song
+4,1,0,Leonardo DiCaprio,Inception,No Song
+20,10,0,Tom Holland,Spider-Man: No Way Home,No Song
+9,0,6,Ed Sheeran,No Movie,Shape of You
+2,3,0,Dwayne Johnson,Black Adam,No Song
+17,9,0,Zendaya,Deadpool,No Song
+11,5,0,Brad Pitt,The Wolf of Wall Street,No Song
+18,9,0,Ryan Reynolds,Deadpool,No Song
+8,4,0,Johnny Depp,Pirates of the Caribbean,No Song
+12,0,5,Selena Gomez,No Movie,Love the Way You Lie
+7,0,9,Taylor Swift,No Movie,Blank Space
+16,0,10,Adele,No Movie,Dance Again
+21,11,11,Donald Glover,Children of Men,Blood on the Leaves
+22,12,12,Jared Leto,The Fall,Come Down
+23,13,13,Hailee Steinfeld,Moonlight,Weightless
+24,14,14,Jamie Foxx,Annihilation,I’m Not in Love
+25,15,15,Harry Styles,Upgrade,Ripe & Ruin

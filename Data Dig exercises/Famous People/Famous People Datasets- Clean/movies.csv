@@ -1,0 +1,26 @@
+Movie_id,Title,Release_Year,Revenue,Region_Success
+1,Inception,2010,836000000,Global
+2,Titanic,1997,2187000000,Global
+3,Black Adam,2022,393000000,USA
+4,Pirates of the Caribbean,2003,654000000,Global
+5,The Wolf of Wall Street,2013,392000000,USA
+6,Aladdin,2019,1050000000,Global
+7,Thor: Ragnarok,2017,854000000,Global
+8,Avengers: Endgame,2019,2798000000,Global
+9,Deadpool,2016,783000000,Global
+10,Spider-Man: No Way Home,2021,1910000000,Global
+11,Children of Men,2006,70000000,Europe
+12,The Fall,2006,3700000,Global
+13,Moonlight,2016,65300000,USA
+14,Annihilation,2018,43000000,USA
+15,Upgrade,2018,17000000,Australia
+16,The Man from Earth,2007,1000000,USA
+17,Paprika,2006,1500000,Japan
+18,The Handmaiden,2016,38600000,South Korea
+19,Coherence,2013,100000,USA
+20,Burning,2018,8000000,South Korea
+21,Atlanta,2016,0,USA
+22,Morbius,2022,167500000,Global
+23,Bumblebee,2018,468000000,Global
+24,Django Unchained,2012,425000000,Global
+25,Dunkirk,2017,527000000,Global
